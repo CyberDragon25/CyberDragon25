@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I’m Subham
 
 <!--
 **CyberDragon25/CyberDragon25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋 I’m Subham
 
 I’m a Computer Science graduate from **Iowa State University** with a minor in Data Science, currently seeking **New Grad Software Engineer** roles.
 
