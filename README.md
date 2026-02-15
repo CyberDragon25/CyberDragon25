@@ -27,5 +27,5 @@ Previously, I interned at **Qualcomm**, where I worked on performance-critical s
 - **Systems & Tools:** Linux, Git, WinDbg, CI/CD  
 
 📫 Reach me at: bhattacharya.shubham123@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/shubhambhattacharya
+🔗 LinkedIn: https://linkedin.com/in/shubhambhattacharya  
 :wave: Portfolio : https://subham-bhattacharya.netlify.app
